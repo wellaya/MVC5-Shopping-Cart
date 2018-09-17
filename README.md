@@ -1,2 +1,2 @@
-# CakeCompanyWebAPI
-This is a sample Asp.Net Core Web API Project implemented in Onion Architecture and 
+# Shopping Cart Web Project 
+This is a sample MVC 5 Web Project implemented in Onion Architecture 
